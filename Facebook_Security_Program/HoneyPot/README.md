@@ -1,8 +1,9 @@
-# cyber_lab10
-# Honey pots I deployed 
+# Facebook HoneyPot Intro Lab
+
+## Honey pots I deployed 
 I deployed the dionasa honeypot 
 
-# Summary  of data collected 
+## Summary  of data collected 
 In 4 hours I received 2,368 attacks 
 
 The top 5 attacker IPs were: 
