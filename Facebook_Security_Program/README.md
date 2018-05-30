@@ -6,10 +6,10 @@ from top Silicon Valley companies including Facebook, Airbnb, Lyft, Uber, Yahoo 
 This course develops offensive and defensive skills through hands-on experience in both 
 exploitation techniques and strategies for protecting and hardening applications. 
 
-###Course Enrollment Date: 08/14/2017
-###Course Completion Date: 12/12/2017
+### Course Enrollment Date: 08/14/2017
+### Course Completion Date: 12/12/2017
 
-#Course Content 
+# Course Content 
 
 
 ### Data Exposures
