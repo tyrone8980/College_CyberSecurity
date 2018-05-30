@@ -3,7 +3,7 @@
 I deployed the dionasa honeypot 
 
 # Summary  of data collected 
-In 24 hours I received 2,368 attacks 
+In 4 hours I received 2,368 attacks 
 
 The top 5 attacker IPs were: 
 1.158.69.241.19 (312 attacks)
